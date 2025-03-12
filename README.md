@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently diving deeper into **Office Add-ins and Full Stack Development**
 
-- 🌱 I’m currently learning **Node.js, Python and security integrations for Outlook Add-ins**
+- 🌱 I’m currently learning **Node.js, Python and security integrations for Office Add-ins, Google Add-ons & Web Development**
 
 - 👯 I’m looking to collaborate on **Excel and Word Add-ins, Outlook Security Solutions, and Web Development Projects**
 
@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/waqas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqas ahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23460956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23460956" height="30" width="40" /></a>
-<a href="https://dribbble.com/waqas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="waqas ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
