@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **waqasahmedit67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing](https://drive.google.com/file/d/1lwsPeqpaxYOfiPMpQGPuTEAnZ1pKsoEL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
 
 - ⚡ Fun fact **⚡ I think I am funny! 😄**
 
