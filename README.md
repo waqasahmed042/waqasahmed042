@@ -1,7 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-
-<h1 align="center"><span id="typed-text"></span></h1>
-
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
 <h3 align="center">I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
@@ -37,13 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasahmed042&show_icons=true&locale=en&layout=compact" alt="waqasahmed042" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasahmed042&show_icons=true&locale=en" alt="waqasahmed042" /></p>
-
-<script>
-  new Typed("#typed-text", {
-    strings: ["Hi 👋, I'm Waqas Ahmed", "Welcome to my profile!", "Let's build something great!"],
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 2000,
-    loop: true
-  });
-</script>
