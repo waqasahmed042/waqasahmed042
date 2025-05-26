@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently diving deeper into **Office Add-ins and Full Stack Development**
 
-- 🌱 I’m currently learning **Node.js, Python and security integrations for Office Add-ins, Google Add-ons & Web Development**
+- 🌱 I’m currently learning **Payment Integration and security integrations for Office Add-ins, Google Add-ons & Web Development**
 
 - 👯 I’m looking to collaborate on **Excel and Word Add-ins, Outlook Security Solutions, and Web Development Projects**
 
