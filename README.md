@@ -4,6 +4,12 @@
 
 <h3 align="center">I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
+### 🚀 Core Competencies
+- **Office Solutions**: Office Add-ins • VSTO • Office.js
+- **Frontend Architecture**: React • Next • Vue • TypeScript • Modern UI/UX
+- **Cloud & Backend**: Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions
+- **Emerging Tech**: AI Integration • Process Automation • REST APIs Integration 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmed042&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmed042" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasahmed042" alt="waqasahmed042" /></a> </p>
