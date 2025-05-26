@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+Hi 👋, I'm+Waqas+Ahmed;Full-Stack+Developer;Web+Developer+&+Designer;Office+Add-ins+Specialist+(Word, Outlook, Excel, PowerPoint);Google+Add-ins+Specialist+(Google Sheets, Google Docs, Gmail);AI+Integration+Expert" alt="Animated Typing Header - Waqas Ahmed" />
+</div>
+
 <h3 align="center">I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmed042&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmed042" /> </p>
