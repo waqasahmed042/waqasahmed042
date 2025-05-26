@@ -28,9 +28,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
 
-- ⚡ Fun fact **⚡ I think I am funny! 😄**
+### 🌐 Professional Network
 
-<h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnomanaslam/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/devnomanaslam)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23155998/noman-aslam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanaslam.it@gmail.com)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/waqas-ahmed-815b87265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqas ahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23460956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23460956" height="30" width="40" /></a>
