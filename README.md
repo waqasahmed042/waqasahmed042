@@ -5,39 +5,38 @@
 <h3>I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
 ### 🚀 Core Competencies
-- **Office Solutions**: Office Add-ins • VSTO • Office.js
-- **Frontend Architecture**: React • Next • Vue • TypeScript • Modern UI/UX
-- **Cloud & Backend**: Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions
-- **Emerging Tech**: AI Integration • Process Automation • REST APIs Integration 
+- **Office Solutions**: Office Add-ins • VSTO • Office.js • Google Workspace Add-ons
+- **Cross-Platform Development**: Web • Desktop • Mobile • Cloud Integration
+- **Frontend Architecture**: React • Next • Vue • JavaScript • TypeScript • Modern UI/UX (Material UI, Fluent UI)
+- **Emerging Tech**: GPT-4 • Gemini • Grok • DeepSeek • AI Integration • Process Automation • REST API Integrations
+- **Cloud & Backend**: Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions • SQL Server • MongoDB
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmed042&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmed042" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasahmed042" alt="waqasahmed042" /></a> </p>
 
-- 🔭 I’m currently diving deeper into **Office Add-ins and Full Stack Development**
+- 🔭 I’m currently diving deeper into **Office Add-ins, Google Workspace Add-ons & Full Stack Development**
 
-- 🌱 I’m currently learning **Payment Integration and security integrations for Office Add-ins, Google Add-ons & Web Development**
+- 🌱 Expanding expertise in **Payment Integration, Security Integrations, SQL Server, MongoDB & Cloud-Based Architectures**
 
-- 👯 I’m looking to collaborate on **Excel and Word Add-ins, Outlook Security Solutions, and Web Development Projects**
+- 👯 I’m looking to collaborate on **Office Add-ins, Google Workspace Add-ons, Web Applications & Microsoft AppSource Deployment**
 
-- 🤝 I’m looking for help with **Advanced demand forecasting in Excel Add-ins & Microsoft AppSource Deployment**
-
-- 💬 Ask me about **Office Add-ins, Google Add-ons and Full Stack Development**
+- 💬 Ask me about **Office Add-ins, Google Add-ons, Full Stack Development, Office.js APIs & REST APIs Integrations**
 
 - 📫 How to reach me **waqasahmedit67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
+- 📄 Learn more about my experience through my [resume](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
 
-### 🌐 Connect with me:
+- 🌐 Here is my [portfolio](https://waqasahmed-info.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqasahmed/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01da48bf334d633c83?viewMode=1)
+### 📞 Connect with me:
+[![Upwork](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01da48bf334d633c83?viewMode=1)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/waqas_addin_dev)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23460956/waqas-ahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqasaahmed.it@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasahmed042&show_icons=true&locale=en&layout=compact" alt="waqasahmed042" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasahmed042&show_icons=true&locale=en" alt="waqasahmed042" /></p>
