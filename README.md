@@ -16,13 +16,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasahmed042" alt="waqasahmed042" /></a> </p>
 
-- 🔭 I’m currently diving deeper into **Office Add-ins, Google Workspace Add-ons & Full Stack Development**
+- 🔭 I’m currently diving deeper into **Office 365 Add-ins, Google Workspace Add-ons & Full Stack Development**
 
 - 🌱 Expanding expertise in **Payment Integration, Security Integrations, SQL Server, MongoDB & Cloud-Based Architectures**
 
-- 👯 I’m looking to collaborate on **Office Add-ins, Google Workspace Add-ons, Web Applications & Microsoft AppSource Deployment**
+- 👯 I’m looking to collaborate on **Office 365 Add-ins, Google Workspace Add-ons, Web Applications Projects & Microsoft AppSource Deployment**
 
-- 💬 Ask me about **Office Add-ins, Google Add-ons, Full Stack Development, Office.js APIs & REST APIs Integrations**
+- 💬 Ask me about **Office 365 Add-ins, Google Add-ons, Full Stack Development, Office.js APIs & REST APIs Integrations**
 
 - 📫 How to reach me **waqasahmedit67@gmail.com**
 
