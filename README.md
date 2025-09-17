@@ -5,15 +5,14 @@
 <h3>I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
 ### 🚀 Core Competencies
-- **Office Solutions**: Office Add-ins • VSTO • Office.js • Google Workspace Add-ons
-- **Cross-Platform Development**: Web • Desktop • Mobile • Cloud Integration
-- **Frontend Architecture**: React • Next • Vue • JavaScript • TypeScript • Modern UI/UX (Material UI, Fluent UI)
-- **Emerging Tech**: GPT-4 • Gemini • Grok • DeepSeek • AI Integration • Process Automation • REST API Integrations
-- **Cloud & Backend**: Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions • SQL Server • MongoDB
+- **Office Solutions:** Office Add-ins • VSTO • Office.js • Google Workspace Add-ons
+- **Cross-Platform Development:** Web • Desktop • Mobile • Cloud Integration
+- **Frontend Architecture:** React • Next • Vue • JavaScript • TypeScript • Modern UI/UX (Material UI, Fluent UI)
+- **Emerging Tech:** GPT-4 • Gemini • Grok • DeepSeek • AI Integration • Process Automation • REST API Integrations
+- **Cloud & Backend:** Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions • SQL Server • MongoDB
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasahmed042&label=Profile%20views&color=0e75b6&style=flat" alt="waqasahmed042" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqasahmed042" alt="waqasahmed042" /></a> </p>
 
 - 🔭 I’m currently diving deeper into **Office 365 Add-ins, Google Workspace Add-ons & Full Stack Development**
