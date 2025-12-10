@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Waqas+Ahmed;Full-Stack+Developer;Web+Development+Expert;Office+Add-ins+Specialist;Google+Add-ons+Specialist;AI+Integration+Expert" alt="Animated Typing Header - Noman Aslam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Waqas+Ahmed;Full-Stack+Developer;Web+Development+Expert;Office+Add-ins+Specialist;Google+Add-ons+Specialist;AI+Integration+Expert" alt="Animated Typing Header - Waqas Ahmed" />
 </div>
 
 <h3>I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
