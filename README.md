@@ -4,7 +4,7 @@
 
 <h3>I am a passionate software engineer with a knack for problem-solving and a love for innovative solutions.</h3>
 
-### 🚀 Core Competencies
+### Core Competencies
 - **Office Solutions:** Office Add-ins • VSTO • Office.js • Google Workspace Add-ons
 - **Cross-Platform Development:** Web • Desktop • Mobile • Cloud Integration
 - **Frontend Architecture:** React • Next • Vue • JavaScript • TypeScript • Modern UI/UX (Material UI, Fluent UI)
@@ -12,21 +12,21 @@
 - **Cloud & Backend:** Node.js/Express.js • .NET Core • Python • REST APIs • Office.js APIs • Serverless Functions • SQL Server • MongoDB
 
 
-- 🔭 I’m currently diving deeper into **Office 365 Add-ins, Google Workspace Add-ons & Full Stack Development**
+- I’m currently diving deeper into **Office 365 Add-ins, Google Workspace Add-ons & Full Stack Development**
 
-- 🌱 Expanding expertise in **Payment Integration, Security Integrations, SQL Server, MongoDB & Cloud-Based Architectures**
+- Expanding expertise in **Payment Integration, Security Integrations, SQL Server, MongoDB & Cloud-Based Architectures**
 
-- 👯 I’m looking to collaborate on **Office 365 Add-ins, Google Workspace Add-ons, Web Applications Projects & Microsoft AppSource Deployment**
+- I’m looking to collaborate on **Office 365 Add-ins, Google Workspace Add-ons, Web Applications Projects & Microsoft AppSource Deployment**
 
-- 💬 Ask me about **Office 365 Add-ins, Google Add-ons, Full Stack Development, Office.js APIs & REST APIs Integrations**
+- Ask me about **Office 365 Add-ins, Google Add-ons, Full Stack Development, Office.js APIs & REST APIs Integrations**
 
-- 📫 How to reach me **waqasahmedit67@gmail.com**
+- How to reach me **waqasahmedit67@gmail.com**
 
-- 📄 Learn more about my experience through my [resume](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
+- Learn more about my experience through my [resume](https://drive.google.com/file/d/1jIZdOLMaDAT-2iUKk-3jfw2tduPb3j1m/view?usp=sharing)
 
-- 🌐 Here is my [portfolio](https://waqasahmed-info.vercel.app/)
+- Here is my [portfolio](https://waqasahmed-info.vercel.app/)
 
-### 📞 Connect with me:
+### Connect with me:
 [![Upwork](https://img.shields.io/badge/Upwork-13A300?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01da48bf334d633c83?viewMode=1)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/waqas_addin_dev)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23460956/waqas-ahmed)
